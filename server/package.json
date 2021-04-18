@@ -1,0 +1,30 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "A cloud file manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k3dves/Bubble.git"
+  },
+  "author": "Bhor Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k3dves/Bubble/issues"
+  },
+  "homepage": "https://github.com/k3dves/Bubble#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "concurrently": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
