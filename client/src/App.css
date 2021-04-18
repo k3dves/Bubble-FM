@@ -1,0 +1,22 @@
+.search {
+  font-size: medium;
+  min-width: 35%;
+  background-color: #f1f3f4;
+  border: 0;
+  margin-left: 5%;
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+  margin-right: 0.5%;
+}
+.file-row {
+  font-size: 0.7rem;
+}
+.bubble {
+  color: #3f3f44;
+}
+a {
+  color: inherit;
+}
